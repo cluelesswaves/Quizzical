@@ -96,6 +96,10 @@ main {
   cursor: pointer;
 }
 
+.btn-start {
+  font-size: 1.4rem;
+}
+
 
 @-webkit-keyframes hvr-wobble-horizontal {
 16.65% {

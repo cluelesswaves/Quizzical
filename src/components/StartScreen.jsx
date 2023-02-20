@@ -45,7 +45,7 @@ export default function StartScreen(props) {
                 </label>
             </form>
             <button 
-                className="btn hvr-wobble-horizontal" 
+                className="btn btn-start hvr-wobble-horizontal" 
                 onClick={() => props.handleStartClick(difficultyState)}
             >Start quiz</button>
         </div>

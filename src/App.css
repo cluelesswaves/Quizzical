@@ -74,7 +74,11 @@ main {
 
 .difficulty-form > p {
   margin-bottom: 0.3em;
-} 
+}
+
+.difficulty-form > label {
+  margin-right: .5em;
+}
 
 .btn {
   background: #4D5B9E;
